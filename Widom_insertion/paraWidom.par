@@ -1,0 +1,10 @@
+Step		200
+Ato			256
+FileName	Conf__N256_rho0.9_T1.32-LAMMPSdump_
+StartAt		10000
+StopAt		40001
+Insert        1000
+eps         1.0
+sigma       1.0
+rc          2.5
+Temp        1.32

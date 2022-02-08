@@ -1,0 +1,15 @@
+Natoms		256
+ens         0
+eps         1.0
+sigma       1.0
+rc          2.5
+dt		0.001
+EqStep		0
+TotStep		40000
+Dump	    1000
+Thermo		10
+Seed		34592
+Init		0
+Label       Conf_
+startCry    1
+freqAT    1.0

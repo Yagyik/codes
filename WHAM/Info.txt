@@ -1,0 +1,5 @@
+This is an atypical implementation of the WHAM self-consistent scheme.
+The simulation trajectory data needs to output the time-varying Boltzmann weight for the biasing.
+Using this, one has nearly "on-the-fly" unbiasing which can then be used to get the unweighted distributions of any collective variable defined after the fact.
+The python scripts compute the log-binned auto-correlation functions, integrated auto-correlation function and statistics of replica-exchange swaps for analysis.
+The script is a bash wrapper protocol
